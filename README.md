@@ -1,5 +1,9 @@
 # inbox-router
 
+> ⚠️ **已废弃** — 请使用 [ClawTeam-OpenClaw](https://github.com/win4r/ClawTeam-OpenClaw) 替代。
+>
+> 迁移指南：ClawTeam-OpenClaw 提供完整的 inbox、task dependencies、git worktree 隔离，且由社区维护，升级只需 `git pull`。
+
 **sub-agent 协调通信：任务分配、结果汇报、依赖等待。**
 
 ## 核心组件
